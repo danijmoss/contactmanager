@@ -1,3 +1,8 @@
+# Contact Manager
+Simple CRUD (Create, Read, Updated, Delete) app showing user contact information using the [JSONPlaceholder API] (https://jsonplaceholder.typicode.com/) built in React.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
